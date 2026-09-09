@@ -1,0 +1,11 @@
+archive/*
+data/*
+!data/.gitkeep
+*.mexmaca64
+.DS_Store
+*.pdf
+*.tex
+*.vscode
+*.idea
+complex_experiments/data/complex_full_run_20260902_205853.log
+complex_experiments/data/complex_full_run_20260902_205853_status.mat
