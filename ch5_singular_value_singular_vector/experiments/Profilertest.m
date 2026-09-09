@@ -1,4 +1,4 @@
-%TEST4 -- timing test, changing number of cols
+%Profiler test
 addpath("../shared/");
 
 close all; clear; rng(1);
